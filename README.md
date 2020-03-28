@@ -10,5 +10,6 @@ npm install -S @feizheng/next-hash
 ```js
 import '@feizheng/next-hash';
 
-//DOCS here!
+nx.hash({ name:'afei', github:'afeiship' }); // 4564597f67d8d0f181d4c4b149834a1994afc7e3
+nx.hash({ github:'afeiship', name:'afei' }); // 4564597f67d8d0f181d4c4b149834a1994afc7e3
 ```
