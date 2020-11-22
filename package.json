@@ -39,5 +39,10 @@
   },
   "dependencies": {
     "object-hash": "^2.0.3"
-  }
+  },
+  "keywords": [
+    "next",
+    "object",
+    "hash"
+  ]
 }

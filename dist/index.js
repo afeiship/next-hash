@@ -3,7 +3,7 @@
  * description: Get object hash code for next.
  * homepage: https://github.com/afeiship/next-hash
  * version: 1.0.0
- * date: 2020-11-22 13:55:33
+ * date: 2020-11-22 13:56:12
  * license: MIT
  */
 
